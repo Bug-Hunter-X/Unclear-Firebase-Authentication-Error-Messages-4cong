@@ -1,0 +1,1 @@
+This repository demonstrates a common issue with Firebase Authentication error handling in JavaScript.  The `unclearError.js` file showcases how generic error messages from Firebase can make debugging difficult. The `clearError.js` file provides a solution by implementing more robust error handling to provide more specific and helpful feedback to the user.
